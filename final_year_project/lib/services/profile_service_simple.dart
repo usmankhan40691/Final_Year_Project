@@ -5,7 +5,7 @@ import 'package:http/http.dart' as http;
 import '../api_config.dart';
 import '../models/user_profile.dart';
 
-class ProfileService extends ChangeNotifier {
+class tech extends ChangeNotifier {
   UserProfile? _userProfile;
   String? _authToken;
   bool _isLoading = false;

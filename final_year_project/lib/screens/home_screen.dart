@@ -184,7 +184,7 @@ class _HomeScreenState extends State<HomeScreen> {
             ),
             const SizedBox(width: 12),
             const Text(
-              'Tech Store',
+              'Swift Cart',
               style: TextStyle(
                 fontWeight: FontWeight.bold,
                 fontSize: 20,
